@@ -85,7 +85,7 @@ print(f"Provisioned resource group {rg_result.name}")
 # at https://docs.microsoft.com/azure/developer/python/azure-sdk-example-resource-group
 
 
-#Step 2: Provision the App Service plan, which defines the underlying VM for the web app.
+# Step 2: Provision the App Service plan, which defines the underlying VM for the web app.
 
 # Names for the App Service plan and App Service. We use a random number with the
 # latter to create a reasonably unique name. If you've already provisioned a
